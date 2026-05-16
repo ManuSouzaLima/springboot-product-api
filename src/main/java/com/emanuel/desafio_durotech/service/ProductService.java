@@ -31,8 +31,8 @@ public class ProductService {
         return list();
     }
 
-    public List<Product> delete(Product product) {
-        productRepository.delete(product);
+    public List<Product> delete(Long id) {
+        productRepository.deleteById(id);
         return list();
     }
 }
