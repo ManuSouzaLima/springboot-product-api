@@ -16,6 +16,9 @@ API REST para gerenciamento de estoque, permitindo realizar operações de cadas
     - PostgreSQL Driver
     - Maven
 
+### Status
+    A API ainda não foi completamente finalizada, segue em desenvolvimento.
+
 
 1. Clone o repositório (SSH):
    ```SSH
